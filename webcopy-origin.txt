@@ -103,7 +103,7 @@ File Name: C:\Downloaded Web Sites\az-paloalto.webflow.io\pricing-v1.html
 Content Type: text/html
 
 Uri: https://az-paloalto.webflow.io/pricing-v2
-File Name: C:\Downloaded Web Sites\az-paloalto.webflow.io\pricing-v2.html
+File Name: C:\Downloaded Web Sites\az-paloalto.webflow.io\pricing.html
 Content Type: text/html
 
 Uri: https://az-paloalto.webflow.io/pricing-v3
