@@ -6597,6 +6597,7 @@ blockquote {
   align-items: flex-end;
   position: relative;
   overflow: visible;
+  margin-top: 30px;
 }
 
 .pricing-border {
