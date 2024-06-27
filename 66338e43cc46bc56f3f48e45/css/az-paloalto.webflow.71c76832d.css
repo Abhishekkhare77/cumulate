@@ -8088,6 +8088,14 @@ blockquote {
   overflow: hidden;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .1);
 }
+.begin {
+  /* width: 100%; */
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  /* padding: 8em 2em; */
+  margin-bottom: 50px;
+}
 
 .text-wrap {
   text-wrap: balance;
