@@ -7683,7 +7683,7 @@ blockquote {
   transform-origin: 50% 100%;
   text-wrap: balance;
   margin-top: 0;
-  font-size: 96px;
+  font-size: 80px;
   font-weight: 700;
   line-height: 1;
   transform: perspective(260px)perspective(300px);
