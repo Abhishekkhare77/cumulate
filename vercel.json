@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      { 
+        "source": "/(.*)", 
+        "destination": "https://www.cumulate.live/$1", 
+        "permanent": true
+      }
+    ]
+  }
+  

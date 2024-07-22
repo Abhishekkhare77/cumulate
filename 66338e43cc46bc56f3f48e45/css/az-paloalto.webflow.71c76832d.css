@@ -4168,7 +4168,7 @@ blockquote {
   align-items: center;
   height: 100%;
   padding: 8px 12px;
-  font-size: 20px;
+  font-size: 14px;
   font-weight: 500;
   line-height: 1;
   display: flex;
@@ -4259,7 +4259,7 @@ blockquote {
   color: var(--1-main-colors--text-color);
   text-wrap: balance;
   max-width: 710px;
-  margin-bottom: 0;
+  margin-bottom: 30px;
   font-size: 22px;
   line-height: 1.4;
 }
@@ -7682,8 +7682,9 @@ blockquote {
 .hero-heading {
   transform-origin: 50% 100%;
   text-wrap: balance;
-  margin-top: 0;
-  font-size: 80px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-size: 60px;
   font-weight: 700;
   line-height: 1;
   transform: perspective(260px)perspective(300px);
