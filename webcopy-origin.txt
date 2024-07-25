@@ -674,7 +674,7 @@ Uri: https://cdn.prod.website-files.com/66338e43cc46bc56f3f48e45/66547d0000623ea
 File Name: C:\Downloaded Web Sites\az-paloalto.webflow.io\66338e43cc46bc56f3f48e45\66547d0000623ea094c8583e_Web Clip.png
 Content Type: image/png
 
-Uri: https://cdn.prod.website-files.com/66338e43cc46bc56f3f48e45/66547d32c80455627acc030f_White.svg
+Uri: https://cdn.prod.website-files.com/https://i.ibb.co/rFL3PgW/Cumulate-1-removebg-preview.png
 File Name: C:\Downloaded Web Sites\az-paloalto.webflow.io\66338e43cc46bc56f3f48e45\66547d32c80455627acc030f_White.svg
 Content Type: image/svg+xml
 
